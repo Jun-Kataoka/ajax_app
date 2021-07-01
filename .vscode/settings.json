@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 15,
+  "cSpell.ignoreWords": [
+    "each"
+  ],
+  "ruby.intellisense": "rubyLocate",
+  "path-intellisense.showHiddenFiles": true,
+  "path-intellisense.extensionOnImport": true,
+  "path-intellisense.autoSlashAfterDirectory": true
+}
